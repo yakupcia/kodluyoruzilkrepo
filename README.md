@@ -1,4 +1,4 @@
-![123.png](https://github.com/[yakupcia]/[kodluyoruzfirstrepo]/image/[branch]/123.png)
+![/image/123.png](https://github.com/[yakupcia]/[kodluyoruzfirstrepo]/image/[branch]/123.png)
 # Kodluyoruz first repo 
 
 Bu repo [Kodluyoruz]{www.kodluyoruz.org} Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de inde.html barındırıyoruz.
